@@ -1,0 +1,23 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.menu-section {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1170px;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.filter-btn {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+.filter-btn:hover {
+  background: #0bb4c5;
+  color: #fff;
+  border: 1px solid #1997c7;
+}
